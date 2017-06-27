@@ -1,0 +1,33 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  padding: 2em;
+  padding: 25px;
+}
+
+.marquee{
+  border: solid;
+}
+
+.education{
+  border: solid;
+  width: 40em;
+  padding: 1em;
+  margin: 1em auto;
+  border-width: .25em;
+}
+
+.employment{
+  border: solid;
+  width: 40em;
+  padding: 1em;
+  margin: 1em auto;
+  border-width: .25em;
+}
+
+.additionalskills{
+  border: solid;
+  width: 40em;
+  padding: 1em;
+  margin: 1em auto;
+  border-width: .25em;
+}
